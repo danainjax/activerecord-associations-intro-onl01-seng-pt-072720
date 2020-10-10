@@ -495,7 +495,7 @@ of songs, _the genre will now be able to produce its associated artists!_
 
 ```bash
 [16] pry(main)> rolling_in_the_deep.artist
-=> #<Genre:0x007fa34338d270 id: 1, name: "pop">
+=> #<Artist:0x007fc75b8d9490 id: 4, name: "Adele">
 [17] pry(main)> pop.artists
 => [#<Artist:0x007fc75b8d9490 id: 1, name: "Adele">]
 [28] pry(main)> adele.genres
